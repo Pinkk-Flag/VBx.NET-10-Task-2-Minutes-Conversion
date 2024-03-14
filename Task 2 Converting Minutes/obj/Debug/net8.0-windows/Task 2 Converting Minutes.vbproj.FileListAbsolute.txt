@@ -1,0 +1,16 @@
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\bin\Debug\net8.0-windows\Task 2 Converting Minutes.exe
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\bin\Debug\net8.0-windows\Task 2 Converting Minutes.deps.json
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\bin\Debug\net8.0-windows\Task 2 Converting Minutes.runtimeconfig.json
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\bin\Debug\net8.0-windows\Task 2 Converting Minutes.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\bin\Debug\net8.0-windows\Task 2 Converting Minutes.pdb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task_2_Converting_Minutes.Form1.resources
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.vbproj.GenerateResource.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.AssemblyInfoInputs.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.AssemblyInfo.vb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.vbproj.CoreCompileInputs.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\refint\Task 2 Converting Minutes.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.pdb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\Task 2 Converting Minutes.genruntimeconfig.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 2 Converting Minutes\Task 2 Converting Minutes\obj\Debug\net8.0-windows\ref\Task 2 Converting Minutes.dll

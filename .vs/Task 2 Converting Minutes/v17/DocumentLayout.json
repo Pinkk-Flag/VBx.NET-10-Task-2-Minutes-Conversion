@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 2 Converting Minutes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF656E1A-8DBE-4DCC-936C-55D65D0E5DA9}|Task 2 Converting Minutes\\Task 2 Converting Minutes.vbproj|c:\\users\\dario gerald\\downloads\\visual studio\\visual basic\\task 2 converting minutes\\task 2 converting minutes\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF656E1A-8DBE-4DCC-936C-55D65D0E5DA9}|Task 2 Converting Minutes\\Task 2 Converting Minutes.vbproj|solutionrelative:task 2 converting minutes\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF656E1A-8DBE-4DCC-936C-55D65D0E5DA9}|Task 2 Converting Minutes\\Task 2 Converting Minutes.vbproj|c:\\users\\dario gerald\\downloads\\visual studio\\visual basic\\task 2 converting minutes\\task 2 converting minutes\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF656E1A-8DBE-4DCC-936C-55D65D0E5DA9}|Task 2 Converting Minutes\\Task 2 Converting Minutes.vbproj|solutionrelative:task 2 converting minutes\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 2 Converting Minutes\\Task 2 Converting Minutes\\Form1.vb",
+              "RelativeDocumentMoniker": "Task 2 Converting Minutes\\Form1.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 2 Converting Minutes\\Task 2 Converting Minutes\\Form1.vb",
+              "RelativeToolTip": "Task 2 Converting Minutes\\Form1.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-14T22:41:25.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 2 Converting Minutes\\Task 2 Converting Minutes\\Form1.vb",
+              "RelativeDocumentMoniker": "Task 2 Converting Minutes\\Form1.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 2 Converting Minutes\\Task 2 Converting Minutes\\Form1.vb [Design]",
+              "RelativeToolTip": "Task 2 Converting Minutes\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-14T22:40:13.289Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
